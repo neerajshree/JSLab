@@ -1,3 +1,4 @@
 <?php
-print("BranchOne");
+require_once 'functions.php';
+printDateTIme();
 ?>
